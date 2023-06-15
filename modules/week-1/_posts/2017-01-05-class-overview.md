@@ -57,17 +57,17 @@ There also will many code examples. Also, there will always be download buttons 
     </li>
     </ul>
 </li>
-<li>Post to the <a href="https://discord.com/channels/746125611117969550/1060614903871844412" target="_blank">Discord Homework Channel</a>.
+<li>Post to the <a href="https://discord.gg/WbYnJCtcs6" target="_blank">Discord Homework Channel</a>.
     <ul>
     <li>If you join our Discord Server, you can connect with your fellow students, ask questions, and know that I will get notified whenever something is posted so I can respond as well..</li>
     
     </ul>
 </li>
-<li>Get help from <a href="https://montana-media-arts.github.io/MART120-Spring2023/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
+<li>Get help from <a href="https://montana-media-arts.github.io/MART120-Fall2023/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
     <ul>
     <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Skype, TeamViewer, and Zoom.  Let me know!
     </li>
-    <li>One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my <a href="https://montana-media-arts.github.io/MART120-Spring2023/instructors/#office-hours">office hours section</a>. Office hours are another way via email, text, Zoom, or calls.
+    <li>One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my <a href="https://montana-media-arts.github.io/MART120-Fall2023/instructors/#office-hours">office hours section</a>. Office hours are another way via email, text, Zoom, or calls.
     </li>
     <li>If you are a distance student or cannot make one of those times, please email, text or call. (I check my email multiple times a day -- well actually it just alerts me, so I should get it unless I am out of commission or in a meeting -- sometimes they feel the same to me.)
     </li>
