@@ -17,6 +17,6 @@ You have a couple of options:
    2. Add your HTML code (refer back to the previous sections if you need a sample)
    3. Choose **File** -> **Save**
    4. Once the dialog appears, type in your name and then, put `.html`  This extension tells your computer to use your default web browser to open this file.
-2. If you have Atom, Notepad, Notepad++, or any other editing program, you can do the same thing.  Just remember to save it with the `.html` extension and it should work.
+2. If you have VS Code, Notepad, Notepad++, or any other editing program, you can do the same thing.  Just remember to save it with the `.html` extension and it should work.
 
 Next up, we are going to take a look at HTML forms.  What are those?  I bet you have used these a lot!
